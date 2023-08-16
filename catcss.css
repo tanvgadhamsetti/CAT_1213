@@ -1,0 +1,47 @@
+.dark-cat {
+    background-color:black;
+    background-color:cover;
+    height:100vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.image-on {
+    width: 150px;
+}
+.catimage {
+    width: 250px;
+}
+.cardswitch {
+    heigth: 150px;
+    width: 250px;
+    background-color: gray;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.para {
+    color: red;
+    font-size: 20px;
+    font-family: roboto;
+    font-weight: 500;
+}
+.button-on {
+    height: 40px;
+    width: 50px;
+    color: green;
+    background-color: red;
+    border-radius: 10px;
+    border-width: 0px;
+}
+.button-off {
+    height: 40px;
+    width: 50px;
+    color: gray;
+    background-color: green;
+    border-radius: 10px;
+    border-width: 0px;
+}
